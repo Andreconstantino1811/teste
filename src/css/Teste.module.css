@@ -1,0 +1,442 @@
+.groupDiv,
+.rectangleDiv {
+  position: absolute;
+  width: 1013px;
+  height: 836px;
+}
+.rectangleDiv {
+  top: 0;
+  left: 0;
+  background-color: #c4c4c4;
+}
+.groupDiv {
+  top: 94px;
+  left: 213px;
+}
+.backgroundIcon,
+.headerDiv {
+  position: absolute;
+  width: 1013px;
+  height: 235px;
+}
+.backgroundIcon {
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+.headerDiv {
+  top: 95px;
+  left: 213px;
+  cursor: pointer;
+}
+.nOVOREGISTRODiv,
+.oPORTUNIDADESDiv,
+.registroDeDiv {
+  position: absolute;
+  top: 173px;
+  left: 337px;
+  font-size: 32px;
+  font-weight: 500;
+  color: #fff;
+  display: inline-block;
+  width: 167px;
+  height: 39px;
+}
+.nOVOREGISTRODiv,
+.oPORTUNIDADESDiv {
+  top: 219px;
+  left: 334px;
+  font-size: 64px;
+  color: #460876;
+  width: 531px;
+  height: 86px;
+}
+.nOVOREGISTRODiv {
+  top: 344px;
+  left: 593px;
+  font-size: 32px;
+  text-transform: uppercase;
+  width: 255px;
+  height: 36px;
+}
+.iNFORMEABAIXOODDADOSDOSEU {
+  position: absolute;
+  top: 380px;
+  left: 248px;
+  text-align: center;
+  display: inline-block;
+  width: 345px;
+  height: 19.74px;
+}
+.rectangleDiv1 {
+  position: absolute;
+  top: 439px;
+  left: 235px;
+  border-radius: 10px;
+  background-color: #efe3ff;
+  width: 425px;
+  height: 47px;
+}
+.cEPDiv {
+  position: absolute;
+  top: 453px;
+  left: 245px;
+  display: inline-block;
+  width: 55px;
+  height: 18px;
+}
+.rectangleDiv2,
+.rectangleDiv3,
+.rectangleDiv4,
+.rectangleDiv5,
+.rectangleDiv6,
+.rectangleDiv7 {
+  position: absolute;
+  top: 500px;
+  left: 235px;
+  border-radius: 10px;
+  background-color: #efe3ff;
+  width: 425px;
+  height: 47px;
+}
+.rectangleDiv3,
+.rectangleDiv4,
+.rectangleDiv5,
+.rectangleDiv6,
+.rectangleDiv7 {
+  top: 561px;
+}
+.rectangleDiv4,
+.rectangleDiv5,
+.rectangleDiv6,
+.rectangleDiv7 {
+  top: 622px;
+}
+.rectangleDiv5,
+.rectangleDiv6,
+.rectangleDiv7 {
+  top: 439px;
+  left: 779px;
+}
+.rectangleDiv6,
+.rectangleDiv7 {
+  top: 500px;
+}
+.rectangleDiv7 {
+  top: 561px;
+}
+.rectangleDiv10,
+.rectangleDiv11,
+.rectangleDiv12,
+.rectangleDiv13,
+.rectangleDiv14,
+.rectangleDiv8,
+.rectangleDiv9 {
+  position: absolute;
+  top: 483px;
+  left: 235px;
+  border-radius: 10px;
+  background-color: #460876;
+  width: 425px;
+  height: 2px;
+}
+.rectangleDiv10,
+.rectangleDiv11,
+.rectangleDiv12,
+.rectangleDiv13,
+.rectangleDiv14,
+.rectangleDiv9 {
+  top: 546px;
+}
+.rectangleDiv10,
+.rectangleDiv11,
+.rectangleDiv12,
+.rectangleDiv13,
+.rectangleDiv14 {
+  top: 608px;
+}
+.rectangleDiv11,
+.rectangleDiv12,
+.rectangleDiv13,
+.rectangleDiv14 {
+  top: 669px;
+}
+.rectangleDiv12,
+.rectangleDiv13,
+.rectangleDiv14 {
+  top: 485px;
+  left: 779px;
+}
+.rectangleDiv13,
+.rectangleDiv14 {
+  top: 548px;
+}
+.rectangleDiv14 {
+  top: 607px;
+}
+.bAIRRODiv,
+.nMERODiv {
+  position: absolute;
+  top: 513px;
+  left: 248px;
+  display: inline-block;
+  width: 95.88px;
+  height: 17.86px;
+}
+.bAIRRODiv {
+  top: 569px;
+  left: 245px;
+  width: 75.41px;
+}
+.cOMPLEMENTODiv,
+.mUNICPIODiv,
+.rUADiv,
+.uFDiv {
+  position: absolute;
+  top: 632px;
+  left: 248px;
+  display: inline-block;
+  width: 23px;
+  height: 18px;
+}
+.cOMPLEMENTODiv,
+.mUNICPIODiv,
+.rUADiv {
+  top: 453px;
+  left: 789px;
+  width: 77.57px;
+  height: 17.86px;
+}
+.cOMPLEMENTODiv,
+.mUNICPIODiv {
+  top: 512px;
+  width: 134px;
+}
+.mUNICPIODiv {
+  top: 575px;
+  width: 81px;
+}
+.pRODUTOSDiv,
+.polygonIcon {
+  position: absolute;
+  top: 644.35px;
+  left: 627.72px;
+  width: 9.33px;
+  height: 7.05px;
+}
+.pRODUTOSDiv {
+  top: 693px;
+  left: 248px;
+  text-align: center;
+  display: inline-block;
+  width: 86px;
+  height: 19.74px;
+}
+.rectangleDiv15 {
+  position: absolute;
+  top: 727px;
+  left: 235px;
+  border-radius: 10px;
+  background-color: #efe3ff;
+  width: 554px;
+  height: 47px;
+}
+.polygonIcon1 {
+  position: absolute;
+  top: 747.35px;
+  left: 756.72px;
+  width: 9.33px;
+  height: 7.05px;
+}
+.rectangleDiv16,
+.rectangleDiv17 {
+  position: absolute;
+  left: 811px;
+  border-radius: 10px;
+  width: 88px;
+}
+.rectangleDiv16 {
+  top: 780px;
+  background-color: #460876;
+  height: 2px;
+  opacity: 0.88;
+}
+.rectangleDiv17 {
+  top: 727px;
+  background-color: #efe3ff;
+  height: 47px;
+}
+.qTDDiv {
+  position: absolute;
+  top: 703px;
+  left: 815px;
+  display: inline-block;
+  width: 34px;
+  height: 18px;
+}
+.rectangleDiv18,
+.rectangleDiv19 {
+  position: absolute;
+  left: 921px;
+  border-radius: 10px;
+  width: 88px;
+}
+.rectangleDiv18 {
+  top: 778px;
+  background-color: #460876;
+  height: 2px;
+  opacity: 0.88;
+}
+.rectangleDiv19 {
+  top: 726px;
+  background-color: #efe3ff;
+  height: 47px;
+}
+.vALORDiv {
+  position: absolute;
+  top: 703px;
+  left: 925px;
+  display: inline-block;
+  width: 50px;
+  height: 18px;
+}
+.rectangleDiv20,
+.rectangleDiv21 {
+  position: absolute;
+  left: 1031px;
+  border-radius: 10px;
+  width: 88px;
+}
+.rectangleDiv20 {
+  top: 778px;
+  background-color: #460876;
+  height: 2px;
+  opacity: 0.88;
+}
+.rectangleDiv21 {
+  top: 727px;
+  background-color: #efe3ff;
+  height: 47px;
+}
+.div,
+.div1,
+.tOTALDiv {
+  position: absolute;
+  top: 703px;
+  left: 1031px;
+  display: inline-block;
+  width: 50px;
+  height: 18px;
+}
+.div,
+.div1 {
+  top: 786px;
+  left: 1102px;
+  width: 12px;
+}
+.div1 {
+  left: 1086px;
+  width: 13px;
+}
+.rectangleDiv22 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: #460876;
+  width: 94px;
+  height: 47px;
+}
+.aNEXODiv {
+  position: absolute;
+  top: 14.1px;
+  left: 7.15px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 79.95px;
+  height: 17.86px;
+}
+.contactFormDiv,
+.faleConoscoDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 94px;
+  height: 47px;
+}
+.faleConoscoDiv {
+  top: 817px;
+  left: 235px;
+  text-align: center;
+  color: #fefefe;
+}
+.rectangleDiv23,
+.rectangleDiv24 {
+  position: absolute;
+  top: 864px;
+  left: 351px;
+  border-radius: 10px;
+  background-color: #460876;
+  width: 585px;
+  height: 2px;
+}
+.rectangleDiv24 {
+  top: 817px;
+  background-color: #efe3ff;
+  height: 47px;
+}
+.div2,
+.div3 {
+  position: absolute;
+  top: 870px;
+  left: 912px;
+  display: inline-block;
+  width: 202px;
+  height: 18px;
+}
+.div3 {
+  left: 905px;
+}
+.rectangleDiv25 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: #460876;
+  width: 100px;
+  height: 47px;
+}
+.submitDiv2 {
+  position: absolute;
+  top: 14px;
+  left: 21px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 62.49px;
+  height: 17.86px;
+}
+.contactFormDiv1,
+.faleConoscoDiv1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100px;
+  height: 47px;
+}
+.faleConoscoDiv1 {
+  top: 818px;
+  left: 958px;
+  text-align: center;
+  color: #fefefe;
+}
+.testeDiv {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: Roboto;
+}
